@@ -1,6 +1,8 @@
 import java.util.Random;
 class classicDiningProblem{
 
+	//this demonstration will use synchronization and Thread.sleep()
+
 	public static void main(String[] args) {
 		philosopher[] ph;
 		int[] forks;
